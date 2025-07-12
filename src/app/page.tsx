@@ -9,7 +9,7 @@ export default function Home() {
           <span className="text-green-400">CSC SOE</span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8">
-          Ihr Cannabis Social Club in der Sächsischen Schweiz & Osterzgebirge.
+          Ihr Cannabis Social Club in der Sächsischen Schweiz Osterzgebirge.
         </p>
         <div className="bg-gray-800 bg-opacity-50 p-8 rounded-lg shadow-2xl">
           <h2 className="text-3xl font-bold text-green-400 mb-4">
